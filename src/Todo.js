@@ -25,7 +25,7 @@ export const Todo = () => {
     // Adduser List
     let saveData = async () => {
         if (!name) {
-            alert("Please fill the form first")
+            alert("Please fill the form first now")
         }
 
         try {
